@@ -42,5 +42,11 @@ Developed a Ecommerce Data Analysis project by performing the actions are
 
 6. Total Orders where X has been undercharged
 
+### Power BI Dashboard Report:
+
+![ecommerce](https://user-images.githubusercontent.com/120455099/211630911-324b6c44-8277-4f38-8088-d6616e414d7a.png)
+
+
+
 
 
