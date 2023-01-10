@@ -18,3 +18,6 @@ per month, they have to pay approximately Rs. 1 crore to the courier companies o
 basis as charges.
 As the amount that X has to pay to the courier companies is very high, they want to verify if the
 charges levied by their partners per Order are correct.
+
+
+
