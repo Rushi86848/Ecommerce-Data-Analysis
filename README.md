@@ -21,4 +21,26 @@ charges levied by their partners per Order are correct.
 
 
 ### Developed a Ecommerce Data Analysis project by performing the actions are:
+Developed a Ecommerce Data Analysis project by performing the actions are 
+
+1. Build a Database.
+
+2. cleaned and done Exploratory data analysis in SQL.
+
+3. Visualize Data in Power BI and created dashboard report.
+
+### Requirments and Questions:
+1. Charges Billed by Courier Company (Rs.)
+
+2. Expected Charge as per X (Rs.)
+
+3. Difference Between Expected Charges and Billed Charges (Rs.)
+
+4. Total orders where X has been correctly charged
+
+5. Total Orders where X has been overcharged 
+
+6. Total Orders where X has been undercharged
+
+
 
